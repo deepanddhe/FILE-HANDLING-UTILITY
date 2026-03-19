@@ -28,5 +28,11 @@ This task also improves logical thinking and programming skills. The menu driven
 
 Overall, Task 1 provides essential knowledge of file handling concepts. It helps in understanding how to perform basic operations on files, manage user input, and handle errors effectively. This knowledge can be extended further to develop more advanced applications in the future. It builds confidence in writing programs that interact with files and manage data efficiently in real applications.
 
+#OUTPUT
+
+<img width="1321" height="963" alt="Image" src="https://github.com/user-attachments/assets/e33b2904-954d-4acc-b551-ee148f43d17e" />
+
+<img width="1348" height="1003" alt="Image" src="https://github.com/user-attachments/assets/83739d9d-056d-4ec0-98f7-9660ad8ffa90" />
+
 
 
